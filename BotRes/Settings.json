@@ -1,0 +1,21 @@
+{
+    "API-Key": "sdfsdfsdfsdf",
+    "Wallets": [
+        "0xdbcf9deEd2F47eDcc34dF925862fe44D8BfF5b58",
+        "0xDCd45D2907Fa98b7a02Ba05760403D31980a7703",
+        "0xF648e994D23A489A6fe1AAa28037e54607C64DB3",
+        "0x3b091500439C2145E34C6C80b46dAb0D36DCe2F9"
+    ],
+    "Private-Keys": [
+        "sdfs",
+        "sdfsd",
+        "sdfsdfs",
+        "sdfsdfsd"
+    ],
+    "BSC-Factory-Address": "0xbcfccbde45ce874adcb698cc183debcf17952812",
+    "BSC-Router-Address": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+    "BNB-Pair-Address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "AmountToBuy": [9750000,9750000,4200000],
+    "BNB-To-Spend": [0.033,0.033,0.0165],
+    "Gas-Price": 600
+}
